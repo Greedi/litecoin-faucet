@@ -1,6 +1,6 @@
 litecoin faucet public release
 ------------------------------------------
-Forum Thread: Comming
+Forum Thread: http://forum.litecoin.net/index.php/topic,533
 this is the simplest version of it, other might get released in time
 
 made by Greedi 2012 (c)
