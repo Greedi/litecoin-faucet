@@ -2,6 +2,7 @@
 /**
  * @author Greedi
  * @copyright 2012
+ * 
  */
 include ('core/banned.php');
 include ('core/wallet.php');
